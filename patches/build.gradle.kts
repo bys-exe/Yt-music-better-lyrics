@@ -2,11 +2,11 @@ group = "app.morphe"
 
 patches {
     about {
-        name = "XYZ Patches for use with Morphe"
-        description = "Example patches"
+        name = "Better lyrics"
+        description = "for yt music"
         source = "git@github.com:MorpheApp/morphe-patches-template.git"
-        author = "Awesome dev"
-        contact = "na"
+        author = "bys-exe"
+        contact = "discord: bys_exe"
         website = "https://morphe.software"
         license = "GPLv3"
     }
